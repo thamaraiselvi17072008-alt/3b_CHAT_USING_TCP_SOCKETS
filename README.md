@@ -51,6 +51,7 @@ while True:
 client_socket.close()
 ```
 ## OUPUT
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ecdc8a0-c30c-4c73-9980-59ce4eee286c" />
 
 ## RESULT
