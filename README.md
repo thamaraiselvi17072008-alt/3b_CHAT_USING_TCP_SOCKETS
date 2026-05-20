@@ -51,7 +51,10 @@ while True:
 client_socket.close()
 ```
 ## OUPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ecdc8a0-c30c-4c73-9980-59ce4eee286c" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-20 112157" src="https://github.com/user-attachments/assets/3190cf6e-c346-4776-97bd-496838969412" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-20 112214" src="https://github.com/user-attachments/assets/d2533147-b623-40c5-8c67-eeceb69bbcfd" />
+
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
 created and executed.
